@@ -1,4 +1,3 @@
-// LectureCourse.h
 #ifndef LECTURECOURSE_H
 #define LECTURECOURSE_H
 
