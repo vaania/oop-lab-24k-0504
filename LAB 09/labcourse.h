@@ -1,4 +1,3 @@
-// LabCourse.h
 #ifndef LABCOURSE_H
 #define LABCOURSE_H
 
