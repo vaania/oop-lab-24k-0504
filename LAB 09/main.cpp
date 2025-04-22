@@ -1,4 +1,3 @@
-// main.cpp
 #include <iostream>
 #include "lecCourse.h"
 #include "labCourse.h"
