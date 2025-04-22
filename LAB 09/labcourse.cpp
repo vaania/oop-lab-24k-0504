@@ -1,4 +1,3 @@
-// LabCourse.cpp
 #include <iostream>
 #include "labcourse.h"
 using namespace std;
